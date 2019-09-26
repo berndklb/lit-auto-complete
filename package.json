@@ -1,0 +1,17 @@
+{
+  "name": "auto-complete-lit",
+  "version": "1.0.0",
+  "flat": true,
+  "description": "Auto-Complete with lit-element",
+  "main": "auto-complete-lit.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/berndklb/lit-auto-complete.git"
+  },
+  "author": "BKB",
+  "license": "BSD-3-Clause",
+  "dependencies": {
+    "@webcomponents/webcomponentsjs": "2.3.0",
+    "lit-element": "2.2.1"
+  }
+}
